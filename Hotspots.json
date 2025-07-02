@@ -1,0 +1,215 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "naam": "Dearhunter",
+      "adres": "Eendrachtsweg 55A, 3012 LE Rotterdam",
+      "latitude": 51.91332928518738,
+      "longitude": 4.4764830877712125,
+      "openingsuren": {
+        "maandag": "gesloten",
+        "dinsdag": "12:00 - 18:00",
+        "woensdag": "12:00 - 18:00",
+        "donderdag": "12:00 - 18:00",
+        "vrijdag": "12:00 - 18:00",
+        "zaterdag": "12:00 - 18:00",
+        "zondag": "13:00 - 18:00"
+      },
+      "image_urls": [
+        "https://m.rotterdam.stappen-shoppen.nl/uploads/image/5846ce662a5ab03f2de7124f-large.jpg",
+        "https://app.thefeedfactory.nl/api/assets/5ffee2af69972708d04c854f/d527f598-5515-46ea-9a9f-e8e38ae2f023.webp",
+        "https://media.indebuurt.nl/rotterdam/2018/02/07073051/dearhunter-rotterdam-voorkant.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "naam": "Episode",
+      "adres": "Witte de Withstraat 19A, 3012 BL Rotterdam",
+      "latitude": 51.916220710141104,
+      "longitude": 4.478767889412816,
+      "openingsuren": {
+        "maandag": "11:00 - 19:00",
+        "dinsdag": "11:00 - 19:00",
+        "woensdag": "11:00 - 19:00",
+        "donderdag": "11:00 - 19:00",
+        "vrijdag": "10:00 - 19:00",
+        "zaterdag": "10:00 - 19:00",
+        "zondag": "11:00 - 19:00"
+      },
+      "image_urls": [
+        "https://episode.eu/wp-content/uploads/2019/12/Voorkant-Rotterdam.jpeg",
+        "https://lh3.googleusercontent.com/p/AF1QipOFN02UK4pQF90cXvdXmMUG0fFtXksGGaRkw4Xn=s1360-w1360-h1020-rw"
+      ]
+    },
+    {
+      "id": 3,
+      "naam": "Cheap Fashion",
+      "adres": "Meent 25, 3011 JB Rotterdam",
+      "latitude": 51.92376990756472,
+      "longitude": 4.485379560085168,
+      "openingsuren": {
+        "maandag": "12:00 - 18:00",
+        "dinsdag": "10:00 - 18:00",
+        "woensdag": "10:00 - 18:00",
+        "donderdag": "10:00 - 18:00",
+        "vrijdag": "10:00 - 21:00",
+        "zaterdag": "10:00 - 18:00",
+        "zondag": "12:00 - 18:00"
+      },
+      "image_urls": [
+        "https://lh3.googleusercontent.com/p/AF1QipOm6Qa-oBP1p23iMqcEDGG5I2a-NZEW-ylE355f=s1360-w1360-h1020-rw",
+        "https://lh3.googleusercontent.com/p/AF1QipMk8Wk-ABAmJ1mxjoI4ecpW5DIWPHS_tc6jxTn3=s1360-w1360-h1020-rw",
+        "https://media.indebuurt.nl/rotterdam/2020/06/07001720/cheap-fashion-scaled.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "naam": "Rejoes",
+      "adres": "Oude Binnenweg 34, 3012 JE Rotterdam",
+      "latitude": 51.91773565744288,
+      "longitude": 4.476584860964046,
+      "openingsuren": {
+        "maandag": "10:00 - 19:00",
+        "dinsdag": "10:00 - 19:00",
+        "woensdag": "10:00 - 19:00",
+        "donderdag": "10:00 - 19:00",
+        "vrijdag": "10:00 - 19:00",
+        "zaterdag": "10:00 - 19:00",
+        "zondag": "12:00 - 17:30"
+      },
+      "image_urls": [
+        "https://lh3.googleusercontent.com/p/AF1QipOdfmjolZTXHzRsBPdEIUMQHVBoLhs19MAgLS81=s1360-w1360-h1020-rw",
+        "https://media.indebuurt.nl/rotterdam/2023/09/06152149/Rejoes-vintage-kledingwinkel-Oude-Binnenweg-1-scaled.jpg",
+        "https://www.rotterdamcentrum.nl/media/Winkels/Rejoes/_1200x630_crop_center-center_82_none_ns/1737281/Rejoes-vintage-winkel-interieur.jpg?v=1695200335"
+      ]
+    },
+
+
+    {
+      "id": 5,
+      "naam": "MARLY vintage",
+      "adres": "Schiedamse Vest 89B, 3012 BG Rotterdam",
+      "latitude": 51.916035782214706,
+      "longitude": 4.479619220322544,
+      "openingsuren": {
+        "maandag": "gesloten",
+        "dinsdag": "gesloten",
+        "woensdag": "12:00 - 18:00",
+        "donderdag": "12:00 - 18:00",
+        "vrijdag": "12:00 - 18:00",
+        "zaterdag": "12:00 - 18:00",
+        "zondag": "12:00 - 18:00"
+      },
+      "image_urls": [
+        "https://media.indebuurt.nl/rotterdam/2024/02/06153140/marly-vintage-scaled.jpg",
+        "https://lh3.googleusercontent.com/p/AF1QipPKkv-9yVkDVs3EAr_x5YO4sNtxGjSWXo-5Fad1=s1360-w1360-h1020-rw"
+      ]
+    },
+    {
+      "id": 6,
+      "naam": "Square Eight",
+      "adres": "Oude Binnenweg 52, 3012 JE Rotterdam",
+      "latitude": 51.91762438809024,
+      "longitude": 4.4761333181784835,
+      "openingsuren": {
+        "maandag": "12:00 - 18:00",
+        "dinsdag": "10:00 - 18:00",
+        "woensdag": "10:00 - 18:00",
+        "donderdag": "10:00 - 18:00",
+        "vrijdag": "10:00 - 19:00",
+        "zaterdag": "10:00 - 18:00",
+        "zondag": "12:00 - 17:00"
+      },
+      "image_urls": [
+        "https://www.kroesepaternotte.com/wp-content/uploads/2022/07/IMG_3232.jpg",
+        "https://lh3.googleusercontent.com/p/AF1QipPoBfSwZV0gsBD1gtHh9kXHHRZRIolVt6yii9rY=s1360-w1360-h1020-rw"
+      ]
+    },
+
+
+    {
+      "id": 7,
+      "naam": "Owned",
+      "adres": "Oude Binnenweg 113, 3012 JB Rotterdam",
+      "latitude": 51.917532328199734,
+      "longitude": 4.474375453761974,
+      "openingsuren": {
+        "maandag": "12:00 - 18:00",
+        "dinsdag": "10:00 - 18:00",
+        "woensdag": "10:00 - 18:00",
+        "donderdag": "10:00 - 18:00",
+        "vrijdag": "10:00 - 21:00",
+        "zaterdag": "10:00 - 18:00",
+        "zondag": "12:00 - 17:00"
+      },
+      "image_urls": [
+        "https://media.indebuurt.nl/rotterdam/2024/10/17094553/Owned-vintage-Rotterdam-9-scaled.jpg",
+        "https://lh3.googleusercontent.com/p/AF1QipOJQjnb4DFyzD-fNdSaGFXgmeSTbrl0eqkCW8hH=s1360-w1360-h1020-rw"
+      ]
+    },
+    {
+      "id": 8,
+      "naam": "Second Change Vintage",
+      "adres": "Nieuwe Binnenweg 7, 3014 GA Rotterdam",
+      "latitude": 51.91705614311814,
+      "longitude": 4.472142612408363,
+      "openingsuren": {
+        "maandag": "gesloten",
+        "dinsdag": "10:00 - 20:00",
+        "woensdag": "10:00 - 20:00",
+        "donderdag": "10:00 - 20:00",
+        "vrijdag": "10:00 - 20:00",
+        "zaterdag": "10:00 - 20:00",
+        "zondag": "12:00 - 18:00"
+      },
+      "image_urls": [
+        "https://media.indebuurt.nl/rotterdam/2024/09/18143556/second-change-vintage-nieuwe-binnenweg-rotterdam-7-scaled.jpg",
+        "https://media.indebuurt.nl/rotterdam/2024/09/18143607/second-change-vintage-nieuwe-binnenweg-rotterdam-scaled.jpg",
+        "https://media.indebuurt.nl/rotterdam/2024/09/18143536/second-change-vintage-nieuwe-binnenweg-rotterdam-5-scaled.jpg"
+      ]
+    },
+
+    {
+      "id": 9,
+      "naam": "Think Twice",
+      "adres": "Karel Doormanstraat 335, 2012 GH Rotterdam",
+      "latitude": 51.91881126549294,
+      "longitude": 4.47538852977881,
+      "openingsuren": {
+        "maandag": "11:00 - 19:00",
+        "dinsdag": "10:00 - 19:00",
+        "woensdag": "10:00 - 19:00",
+        "donderdag": "10:00 - 19:00",
+        "vrijdag": "10:00 - 20:00",
+        "zaterdag": "10:00 - 19:00",
+        "zondag": "12:00 - 19:00"
+      },
+      "image_urls": [
+        "https://media.indebuurt.nl/rotterdam/2024/05/16090500/think-twice-karel-doormanstraat-rotterdam-scaled.jpg",
+        "https://media.indebuurt.nl/rotterdam/2024/05/16090409/think-twice-karel-doormanstraat-rotterdam-2-scaled.jpg"
+      ]
+    },
+
+    {
+      "id": 10,
+      "naam": "Sizzling Crackers",
+      "adres": "Keerweer 12, 3012 KB Rotterdam",
+      "latitude": 51.91785778951564,
+      "longitude": 4.478976175649874,
+      "openingsuren": {
+        "maandag": "gesloten",
+        "dinsdag": "09:00 - 17:30",
+        "woensdag": "09:00 - 17:30",
+        "donderdag": "09:00 - 21:00",
+        "vrijdag": "09:00 - 18:00",
+        "zaterdag": "08:30 - 16:00",
+        "zondag": "gesloten"
+      },
+      "image_urls": [
+        "https://media.indebuurt.nl/rotterdam/2022/12/12110517/vintage-5-scaled.jpeg",
+        "https://sizzlingcrackers.nl/wp-content/uploads/2023/05/M9A4054-scaled.jpg"
+      ]
+    }
+
+  ]
+}
